@@ -1,0 +1,8 @@
+Boa noite ${NAME}
+
+Gostaria de pedir a vossa excelência para não votar no senador Rodrigo Pacheco para a presidência dessa Casa, um dos principais responsáveis pelos problemas que o pais enfrenta, pois omitiu-se de tomar as medidas cabíveis, quando o poder judiciário começou a violar, de forma cada vez mais desabrida e frequente, os princípios constitucionais, inclusive das cláusulas pétreas.
+Considero-o também um dos esponsáveis pelos recentes incidentes em Brasília, que culminaram com a invasão e depredação das sedes dos três poderes. Não pretendo me alongar mais do que o necessário.
+
+Atenciosamente,
+${MY_NAME}
+
