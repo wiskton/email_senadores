@@ -1,7 +1,7 @@
 FROM python:3.10-alpine
 ENV PYTHONUNBUFFERED 1
 
-RUN apk update && apk add --no-cache build-base jpeg-dev zlib-dev postgresql-dev g++ gcc python3-dev musl-dev bash tzdata mailcap; \
+RUN apk update && apk add --no-cache build-base jpeg-dev zlib-dev g++ gcc python3-dev musl-dev bash tzdata mailcap; \
     cp /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime; \
     echo "America/Sao_Paulo" > /etc/timezone
 

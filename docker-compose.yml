@@ -6,5 +6,3 @@ services:
     command: python main.py
     volumes:
       - .:/code
-    ports:
-      - "8000:8000"
